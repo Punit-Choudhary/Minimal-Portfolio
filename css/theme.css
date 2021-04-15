@@ -1,0 +1,14 @@
+/* Aqua Green Theme */
+
+main {
+    background: #3bffb7;
+    color: #121213;
+}
+
+.icons-social a {
+    color: #121213;
+}
+
+.icons-social a svg path{
+    fill: #121213;
+}
